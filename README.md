@@ -83,4 +83,4 @@ I would like to thank my coding partners
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./license.txt) licensed.
+This project is [MIT](./MIT.md) licensed.
