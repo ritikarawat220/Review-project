@@ -12,58 +12,56 @@ body {
 .main-container {
   padding: 1rem 0.5rem;
   border-radius: 0.5em;
-  background-color: #eeeeee;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .main-container > h1 {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .main-container > p {
-    font-size: 16px;
+  font-size: 16px;
 }
 
-.image-container{
-    background-color: #fff;
-    width: 75%;
-    display: flex;
-    flex-direction: column;
-    padding: 0 12.5%;
+.image-container {
+  background-color: #fff;
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  padding: 0 12.5%;
 }
 
-.image-container > p{
-    font-size: 16px;
+.image-container > p {
+  font-size: 16px;
 }
 
-.tribute-info > li{
-    display: flex;
-    
+li {
+  margin: 20px;
+  font-size: 1em;
 }
 
-li{
-    margin: 20px;
-    font-size: 1em;
-
-}
-span{
-    font-weight: bold;
+.tribute-info > li {
+  display: flex;
 }
 
-.tribute-info{
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
-    width: 45%;
-    padding-top: 32px;
-
+span {
+  font-weight: bold;
 }
 
-.tribute-paragraph{
-    font-style: italic;
-    padding-left: 36px;
+.tribute-info {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  padding-top: 32px;
+}
+
+.tribute-paragraph {
+  font-style: italic;
+  padding-left: 36px;
 }
